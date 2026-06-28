@@ -1,0 +1,13 @@
+/* Custom Gradient Buttons for GoHighLevel Funnels */
+.ghl-btn-gradient {
+    background: linear-gradient(45deg, #ff416c, #ff4b2b) !important;
+    color: #ffffff !important;
+    border: none !important;
+    transition: transform 0.2s ease-in-out !important;
+}
+
+/* Hover Effect to make it interactive */
+.ghl-btn-gradient:hover {
+    transform: scale(1.05) !important;
+    box-shadow: 0px 4px 15px rgba(255, 75, 43, 0.4) !important;
+}
